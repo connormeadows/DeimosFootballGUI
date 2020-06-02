@@ -35,7 +35,7 @@ def rocketInfoWindow():
     print("Making the rocket info window")
     return
 
-def environmentWindow():
+gdef environmentWindow():
     print("Making the info window")
     return
 
